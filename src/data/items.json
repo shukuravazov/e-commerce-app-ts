@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Company of One",
+    "price": 17.99,
+    "imgUrl": "./images/company-of-one.jpg"
+  },
+  {
+    "id": 2,
+    "name": "How inovation works",
+    "price": 10.99,
+    "imgUrl": "./images/how-inovation-works.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kinkof",
+    "price": 15.99,
+    "imgUrl": "./images/kinkof.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Psychology of Money",
+    "price": 20.99,
+    "imgUrl": "./images/psychoogy-of-money.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Zero to One",
+    "price": 12.99,
+    "imgUrl": "./images/zero-to-one.jpg"
+  }
+]
